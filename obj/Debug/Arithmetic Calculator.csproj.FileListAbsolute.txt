@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Arithmetic Calculator\Arithmetic Calculator\bin\Debug\Arithmetic Calculator.exe.config
+C:\Users\DELL\source\repos\Arithmetic Calculator\Arithmetic Calculator\bin\Debug\Arithmetic Calculator.exe
+C:\Users\DELL\source\repos\Arithmetic Calculator\Arithmetic Calculator\bin\Debug\Arithmetic Calculator.pdb
+C:\Users\DELL\source\repos\Arithmetic Calculator\Arithmetic Calculator\obj\Debug\Arithmetic Calculator.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Arithmetic Calculator\Arithmetic Calculator\obj\Debug\Arithmetic Calculator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Arithmetic Calculator\Arithmetic Calculator\obj\Debug\Arithmetic Calculator.exe
+C:\Users\DELL\source\repos\Arithmetic Calculator\Arithmetic Calculator\obj\Debug\Arithmetic Calculator.pdb
